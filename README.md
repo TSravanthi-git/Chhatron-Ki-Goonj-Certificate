@@ -31,4 +31,4 @@ Repository Contents
 
 Certificate
 
-📜 [View Certificate](./Chhatron-Ki-Goonj-Certificate-of-Recognition.pdf)
+📜 [View Certificate](./Chhatron-Ki-Goonj-Certificate.pdf)
